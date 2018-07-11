@@ -1,5 +1,6 @@
-# Papers-on-large-mini-batch-SGD
-A list of papers on large-batch distributed training of deep learning models
+# Papers on large mini-batch SGD
+
+There has been a lot interesting work on training with large batches recently. This is a list of papers on large-batch distributed training of deep learning models.
 
 - Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour [[pdf]](https://arxiv.org/abs/1706.02677)
   - Priya Goyal, Piotr Dollár, Ross Girshick, Pieter Noordhuis, Lukasz Wesolowski, Aapo Kyrola, Andrew Tulloch, Yangqing Jia, Kaiming He
@@ -21,3 +22,9 @@ A list of papers on large-batch distributed training of deep learning models
   
 - On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima [[pdf]](https://arxiv.org/abs/1609.04836)
   - Nitish Shirish Keskar, Dheevatsa Mudigere, Jorge Nocedal, Mikhail Smelyanskiy, Ping Tak Peter Tang
+
+- Don’t Decay the Learning Rate, Increase the Batch Size [[pdf]](https://arxiv.org/abs/1711.00489)
+  - Smith, S.L., Kindermans, P.J. and Le, Q.V.
+  
+- ImageNet Training in Minutes [[pdf]](https://arxiv.org/abs/1709.05011?context=cs)
+  - Yang You, Zhao Zhang, Cho-Jui Hsieh, James Demmel, Kurt Keutzer
