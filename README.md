@@ -11,10 +11,10 @@ There has been a lot interesting work on training with large batches recently. T
 - 100-epoch ImageNet Training with AlexNet in 24 Minutes [[pdf]](https://arxiv.org/pdf/1711.04325)
   - You, Y., Zhang, Z., Hsieh, C.J. and Demmel, J.
   
-- Scale out for large minibatch SGD: Residual network training on ImageNet-1K with improved accuracy and reduced time to train [[pdf](https://arxiv.org/abs/1711.04291)
+- Scale out for large minibatch SGD: Residual network training on ImageNet-1K with improved accuracy and reduced time to train [[pdf]](https://arxiv.org/abs/1711.04291)
   - Valeriu Codreanu, Damian Podareanu, Vikram Saletore
   
-- Train longer, generalize better: closing the generalization gap in large batch training of neural networks [[pdf](https://arxiv.org/pdf/1705.08741)
+- Train longer, generalize better: closing the generalization gap in large batch training of neural networks [[pdf]](https://arxiv.org/pdf/1705.08741)
   - Hoffer, E., Hubara, I. and Soudry, D.
   
 - Gradient Diversity: a Key Ingredient for Scalable Distributed Learning [[pdf]](https://arxiv.org/abs/1705.08741)
