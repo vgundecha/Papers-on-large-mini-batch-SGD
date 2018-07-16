@@ -28,3 +28,6 @@ There has been a lot interesting work on training with large batches recently. T
   
 - ImageNet Training in Minutes [[pdf]](https://arxiv.org/abs/1709.05011?context=cs)
   - Yang You, Zhao Zhang, Cho-Jui Hsieh, James Demmel, Kurt Keutzer
+
+- Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training [[pdf]](https://arxiv.org/abs/1712.01887)
+  - Yujun Lin, Song Han, Huizi Mao, Yu Wang, William J. Dally
